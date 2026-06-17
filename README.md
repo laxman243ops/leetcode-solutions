@@ -60,6 +60,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Roman to Integer
 - Palindrome Number
 - Minimum Add to Make Parentheses Valid
+- Longest Substring Without Repeating Characters
 
 ### Dynamic Programming
 - Maximum Subarray
@@ -78,24 +79,6 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 ### Mathematics
 - Sum of Good Numbers
-
----
-
-## 📂 Repository Structure
-
-```
-leetcode-solutions/
-│
-├── Arrays/
-├── Strings/
-├── LinkedLists/
-├── BinarySearch/
-├── DynamicProgramming/
-├── Greedy/
-├── Math/
-│
-└── README.md
-```
 
 ---
 
