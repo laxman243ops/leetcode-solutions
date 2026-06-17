@@ -125,7 +125,7 @@ Maintaining daily coding consistency through LeetCode and GitHub commits.
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/teYYT7tVul?theme=dark&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/teYYT7tVul?)
 
 ---
 
