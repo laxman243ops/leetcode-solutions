@@ -55,6 +55,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Majority Element
 - Contains Duplicate
 - Max Consecutive Ones
+- Longest Common Prefix
 
 ### Strings
 - Roman to Integer
