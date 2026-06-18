@@ -76,7 +76,7 @@ Hi, I'm **Laxmana Rao Butcha**.
   
 ### Hash table
 - Intersection of Two Linked Lists
-- 
+- Linked List Cycle
   
 ### Greedy Algorithms
 - Jump Game
