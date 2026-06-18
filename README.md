@@ -73,7 +73,11 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 ### Linked Lists
 - Add Two Numbers
-
+  
+### Hash table
+- Intersection of Two Linked Lists
+- 
+  
 ### Greedy Algorithms
 - Jump Game
 - Lemonade Change
