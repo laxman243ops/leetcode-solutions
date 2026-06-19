@@ -56,6 +56,8 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Contains Duplicate
 - Max Consecutive Ones
 - Longest Common Prefix
+- Next Permutation
+- 
 
 ### Strings
 - Roman to Integer
