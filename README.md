@@ -89,6 +89,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 ### Mathematics
 - Sum of Good Numbers
+- Divide Two Integers
 
 ---
 
