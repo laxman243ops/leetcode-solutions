@@ -126,7 +126,7 @@ Maintaining daily coding consistency through LeetCode and GitHub commits.
 
 - [x] First 10 Problems
 - [x] First 15 Problems
-- [ ] First 25 Problems
+- [x] First 25 Problems
 - [ ] First 50 Problems
 - [ ] First 100 Problems
 - [ ] First 250 Problems
