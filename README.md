@@ -64,6 +64,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Palindrome Number
 - Minimum Add to Make Parentheses Valid
 - Longest Substring Without Repeating Characters
+- Longest Palindromic Substring
 
 ### Dynamic Programming
 - Maximum Subarray
