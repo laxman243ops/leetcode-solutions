@@ -65,6 +65,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Minimum Add to Make Parentheses Valid
 - Longest Substring Without Repeating Characters
 - Longest Palindromic Substring
+- Integer to Roman
 
 ### Dynamic Programming
 - Maximum Subarray
