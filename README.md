@@ -59,6 +59,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Next Permutation
 - Combination Sum
 - Search Insert Position
+- 3Sum
 
 ### Strings
 - Roman to Integer
