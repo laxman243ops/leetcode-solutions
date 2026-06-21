@@ -57,6 +57,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Max Consecutive Ones
 - Longest Common Prefix
 - Next Permutation
+- Combination Sum
 - Search Insert Position
 
 ### Strings
