@@ -66,6 +66,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Longest Substring Without Repeating Characters
 - Longest Palindromic Substring
 - Integer to Roman
+- Zigzag Conversion
 
 ### Dynamic Programming
 - Maximum Subarray
