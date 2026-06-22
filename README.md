@@ -95,6 +95,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Divide Two Integers
 - Reverse Integer
 - Multiply Strings
+- Pow(x, n)
 
 ---
 
