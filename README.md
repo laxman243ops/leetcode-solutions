@@ -73,6 +73,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 ### Dynamic Programming
 - Maximum Subarray
 - Climbing Stairs
+- Generate Parentheses
 
 ### Binary Search
 - Binary Search
