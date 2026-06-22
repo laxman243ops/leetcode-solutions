@@ -144,7 +144,7 @@ Maintaining daily coding consistency through LeetCode and GitHub commits.
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/teYYT7tVul?)
+![LeetCode Stats](https://leetcode.com/u/teYYT7tVul/)
 
 ---
 
