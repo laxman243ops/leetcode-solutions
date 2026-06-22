@@ -74,6 +74,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Maximum Subarray
 - Climbing Stairs
 - Generate Parentheses
+- Pascal's Triangle
 
 ### Binary Search
 - Binary Search
