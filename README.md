@@ -94,6 +94,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Sum of Good Numbers
 - Divide Two Integers
 - Reverse Integer
+- Multiply Strings
 
 ---
 
