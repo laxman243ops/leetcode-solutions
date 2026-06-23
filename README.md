@@ -145,10 +145,12 @@ Maintaining daily coding consistency through LeetCode and GitHub commits.
 - [ ] First 500 Problems
 
 ---
-### 📊 My LeetCode Stats
+## 🚀 LeetCode Status
 
-![LeetCode Stats](https://vercel.app)
-
+[![LeetCode Profile](https://shields.io)](
+https://leetcode.com
+)
+![LeetCode Stats](https://shields.io)
 
 ## 💪 Quote
 
