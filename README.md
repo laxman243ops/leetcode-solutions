@@ -39,8 +39,8 @@ Hi, I'm **Laxmana Rao Butcha**.
 |------------|--------|
 | Easy | 19 |
 | Medium | 16 |
-| Hard | 0 |
-| Total | 35 |
+| Hard | 1 |
+| Total | 40 |
 
 > Updated regularly as I solve more problems.
 
@@ -88,6 +88,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Intersection of Two Linked Lists
 - Linked List Cycle
 - Letter Combinations of a Phone Number
+- Substring with Concatenation of All Words
   
 ### Greedy Algorithms
 - Jump Game
