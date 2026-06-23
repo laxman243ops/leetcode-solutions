@@ -94,6 +94,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Jump Game
 - Lemonade Change
 - Jump Game II
+- Longest Palindrome
 
 ### Mathematics
 - Sum of Good Numbers
