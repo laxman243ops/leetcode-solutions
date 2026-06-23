@@ -93,6 +93,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 ### Greedy Algorithms
 - Jump Game
 - Lemonade Change
+- Jump Game II
 
 ### Mathematics
 - Sum of Good Numbers
