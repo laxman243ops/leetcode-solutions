@@ -37,10 +37,10 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 19 |
-| Medium | 16 |
+| Easy | 20 |
+| Medium | 18 |
 | Hard | 1 |
-| Total | 40 |
+| Total | 39 |
 
 > Updated regularly as I solve more problems.
 
@@ -143,12 +143,6 @@ Maintaining daily coding consistency through LeetCode and GitHub commits.
 - [ ] First 100 Problems
 - [ ] First 250 Problems
 - [ ] First 500 Problems
-
----
-
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcode.com/u/teYYT7tVul/)
 
 ---
 
