@@ -83,6 +83,8 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 ### Linked Lists
 - Add Two Numbers
+- Merge Two Sorted Lists
+- Remove Duplicates from Sorted List
   
 ### Hash table
 - Intersection of Two Linked Lists
