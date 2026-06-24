@@ -37,10 +37,10 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 20 |
+| Easy | 21 |
 | Medium | 18 |
 | Hard | 1 |
-| Total | 39 |
+| Total | 40 |
 
 > Updated regularly as I solve more problems.
 
@@ -89,6 +89,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Linked List Cycle
 - Letter Combinations of a Phone Number
 - Substring with Concatenation of All Words
+- Happy Number
   
 ### Greedy Algorithms
 - Jump Game
