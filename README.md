@@ -87,6 +87,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Remove Duplicates from Sorted List
 - Swap Nodes in Pairs
 - Remove Linked List Elements
+- Reverse Linked List
   
 ### Hash table
 - Intersection of Two Linked Lists
