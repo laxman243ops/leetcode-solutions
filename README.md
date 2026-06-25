@@ -86,6 +86,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Merge Two Sorted Lists
 - Remove Duplicates from Sorted List
 - Swap Nodes in Pairs
+- Remove Linked List Elements
   
 ### Hash table
 - Intersection of Two Linked Lists
