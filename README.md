@@ -37,10 +37,10 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 24 |
-| Medium | 18 |
+| Easy | 26 |
+| Medium | 21 |
 | Hard | 1 |
-| Total | 43 |
+| Total | 48 |
 
 > Updated regularly as I solve more problems.
 
@@ -89,6 +89,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Remove Linked List Elements
 - Reverse Linked List
 - Odd Even Linked List
+- Delete Node in a Linked List
   
 ### Hash table
 - Intersection of Two Linked Lists
