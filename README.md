@@ -88,6 +88,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Swap Nodes in Pairs
 - Remove Linked List Elements
 - Reverse Linked List
+- Odd Even Linked List
   
 ### Hash table
 - Intersection of Two Linked Lists
