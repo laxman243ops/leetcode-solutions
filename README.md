@@ -85,6 +85,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Add Two Numbers
 - Merge Two Sorted Lists
 - Remove Duplicates from Sorted List
+- Swap Nodes in Pairs
   
 ### Hash table
 - Intersection of Two Linked Lists
@@ -147,14 +148,6 @@ Maintaining daily coding consistency through LeetCode and GitHub commits.
 - [ ] First 100 Problems
 - [ ] First 250 Problems
 - [ ] First 500 Problems
-
----
-## 🚀 LeetCode Status
-
-[![LeetCode Profile](https://shields.io)](
-https://leetcode.com
-)
-![LeetCode Stats](https://shields.io)
 
 ## 💪 Quote
 
