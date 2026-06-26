@@ -81,6 +81,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - First Bad Version
 - Sqrt(x)
 - Count Complete Tree Nodes
+- Find Peak Element
 
 ### Linked Lists
 - Add Two Numbers
