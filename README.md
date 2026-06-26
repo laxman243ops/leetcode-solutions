@@ -80,6 +80,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Binary Search
 - First Bad Version
 - Sqrt(x)
+- Count Complete Tree Nodes
 
 ### Linked Lists
 - Add Two Numbers
