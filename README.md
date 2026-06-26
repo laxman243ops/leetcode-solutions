@@ -82,6 +82,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Sqrt(x)
 - Count Complete Tree Nodes
 - Find Peak Element
+- Two Sum II - Input Array Is Sorted
 
 ### Linked Lists
 - Add Two Numbers
