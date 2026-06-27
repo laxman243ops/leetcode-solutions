@@ -116,6 +116,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Reverse Integer
 - Multiply Strings
 - Pow(x, n)
+- Rotate Image
 
 ---
 
