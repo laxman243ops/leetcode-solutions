@@ -76,6 +76,8 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Generate Parentheses
 - Pascal's Triangle
 - Edit Distance
+- Pascal's Triangle II
+
 
 ### Binary Search
 - Binary Search
