@@ -117,6 +117,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Multiply Strings
 - Pow(x, n)
 - Rotate Image
+- Plus One
 
 ---
 
