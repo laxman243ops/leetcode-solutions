@@ -60,6 +60,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Combination Sum
 - Search Insert Position
 - 3Sum
+- 4Sum
 
 ### Strings
 - Roman to Integer
