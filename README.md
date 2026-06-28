@@ -75,6 +75,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Valid Parentheses
 - String to Integer (atoi)
 - Zigzag Conversion
+- Find the Index of the First Occurrence in a String
 
 ### Dynamic Programming
 - Maximum Subarray
