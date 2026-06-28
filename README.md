@@ -59,6 +59,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Next Permutation
 - Combination Sum
 - Search Insert Position
+- Find First and Last Position of Element in Sorted Array
 - 3Sum
 - 3Sum Closest
 - 4Sum
