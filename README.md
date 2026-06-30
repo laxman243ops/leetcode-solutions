@@ -129,6 +129,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Rotate Image
 - Add Binary
 - Plus One
+- Unique Binary Search Trees
 - Gray Code
 - Unique Paths
 
