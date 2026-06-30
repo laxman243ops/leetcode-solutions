@@ -37,10 +37,10 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 33 |
-| Medium | 32 |
+| Easy | 34 |
+| Medium | 34 |
 | Hard | 1 |
-| Total | 66 |
+| Total | 69 |
 
 > Updated regularly as I solve more problems.
 
