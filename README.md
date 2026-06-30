@@ -126,6 +126,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Reverse Integer
 - Multiply Strings
 - Pow(x, n)
+- Excel Sheet Column Title
 - Rotate Image
 - Add Binary
 - Plus One
