@@ -134,6 +134,8 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Gray Code
 - Unique Paths
 
+### MySQL
+- Combine Two Tables
 ---
 
 ## 📝 Solution Format
@@ -157,7 +159,7 @@ Time Complexity: O(n)
 
 Space Complexity: O(n)
 
-Language: Python
+Language: Python,MySQL
 
 ---
 
