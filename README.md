@@ -137,6 +137,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 ### MySQL
 - Combine Two Tables
 - Duplicate Emails
+- Employees Earning More Than Their Managers
 ---
 
 ## 📝 Solution Format
