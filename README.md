@@ -37,10 +37,10 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 34 |
+| Easy | 38 |
 | Medium | 34 |
 | Hard | 1 |
-| Total | 69 |
+| Total | 73 |
 
 > Updated regularly as I solve more problems.
 
@@ -138,6 +138,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Combine Two Tables
 - Duplicate Emails
 - Employees Earning More Than Their Managers
+- Customers Who Never Order
 ---
 
 ## 📝 Solution Format
