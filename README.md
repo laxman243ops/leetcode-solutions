@@ -142,6 +142,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Delete Duplicate Emails
 - Rising Temperature
 - Game Play Analysis I
+- Employee Bonus
 ---
 
 ## 📝 Solution Format
