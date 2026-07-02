@@ -140,6 +140,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Employees Earning More Than Their Managers
 - Customers Who Never Order
 - Delete Duplicate Emails
+- Rising Temperature
 ---
 
 ## 📝 Solution Format
