@@ -139,6 +139,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Duplicate Emails
 - Employees Earning More Than Their Managers
 - Customers Who Never Order
+- Delete Duplicate Emails
 ---
 
 ## 📝 Solution Format
