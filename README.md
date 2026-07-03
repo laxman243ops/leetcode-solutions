@@ -125,6 +125,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Divide Two Integers
 - Reverse Integer
 - Multiply Strings
+- Rotate Array
 - Pow(x, n)
 - Excel Sheet Column Title
 - Rotate Image
