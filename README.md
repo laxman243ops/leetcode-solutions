@@ -133,6 +133,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Plus One
 - Unique Binary Search Trees
 - Gray Code
+- Power of Two
 - Unique Paths
 
 ### MySQL
