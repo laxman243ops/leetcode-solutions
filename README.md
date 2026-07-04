@@ -150,6 +150,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Employee Bonus
 - Find Customer Referee
 - Second Highest Salary
+- Nth Highest Salary
 - sales person
 
 ---
