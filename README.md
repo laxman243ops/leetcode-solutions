@@ -143,6 +143,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Rank Scores
 - Employees Earning More Than Their Managers
 - Customers Who Never Order
+- Consecutive Numbers
 - Delete Duplicate Emails
 - Customer Placing the Largest Number of Orders
 - Rising Temperature
