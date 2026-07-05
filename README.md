@@ -143,6 +143,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Department Highest Salary
 - Rank Scores
 - Investments in 2016
+- Friend Requests II: Who Has the Most Friends
 - Employees Earning More Than Their Managers
 - Customers Who Never Order
 - Consecutive Numbers
