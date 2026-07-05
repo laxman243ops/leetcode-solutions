@@ -66,6 +66,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - 4Sum
 ### Matrix
 - Valid Sudoku
+- Spiral Matrix
 
 ### Strings
 - Roman to Integer
