@@ -140,6 +140,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 ### MySQL
 - Combine Two Tables
 - Duplicate Emails
+- Department Highest Salary
 - Rank Scores
 - Employees Earning More Than Their Managers
 - Customers Who Never Order
