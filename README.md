@@ -142,6 +142,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Duplicate Emails
 - Department Highest Salary
 - Rank Scores
+- Biggest single Number
 - Investments in 2016
 - Friend Requests II: Who Has the Most Friends
 - Employees Earning More Than Their Managers
