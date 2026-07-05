@@ -67,6 +67,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 ### Matrix
 - Valid Sudoku
 - Spiral Matrix
+- Maximum Square
 
 ### Strings
 - Roman to Integer
