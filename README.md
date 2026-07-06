@@ -86,6 +86,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Climbing Stairs
 - Generate Parentheses
 - Pascal's Triangle
+- Decode Ways
 - Edit Distance
 - Counting Bits
 - Is Subsequence
