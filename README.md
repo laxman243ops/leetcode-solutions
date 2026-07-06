@@ -87,6 +87,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Generate Parentheses
 - Pascal's Triangle
 - Edit Distance
+- Counting Bits
 - Pascal's Triangle II
 
 
