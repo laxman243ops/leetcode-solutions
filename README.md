@@ -117,6 +117,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Letter Combinations of a Phone Number
 - Substring with Concatenation of All Words
 - Happy Number
+- Word Pattern
 - Missing Number
   
 ### Greedy Algorithms
