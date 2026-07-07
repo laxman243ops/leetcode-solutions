@@ -118,6 +118,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Substring with Concatenation of All Words
 - Happy Number
 - Word Pattern
+- Intersection of Two Arrays
 - Missing Number
   
 ### Greedy Algorithms
