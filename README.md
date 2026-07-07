@@ -119,6 +119,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Happy Number
 - Word Pattern
 - Intersection of Two Arrays
+- Intersection of Two Arrays II
 - Missing Number
   
 ### Greedy Algorithms
