@@ -52,6 +52,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Two Sum
 - Remove Duplicates from Sorted Array
 - Remove Element
+- Single Number
 - Majority Element
 - Contains Duplicate
 - Max Consecutive Ones
