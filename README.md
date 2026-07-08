@@ -60,6 +60,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Combination Sum
 - Permutations
 - Permutations II
+- Merge Intervals
 - Search Insert Position
 - Search in Rotated Sorted Array
 - Find First and Last Position of Element in Sorted Array
