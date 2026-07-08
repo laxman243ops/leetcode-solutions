@@ -58,6 +58,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Longest Common Prefix
 - Next Permutation
 - Combination Sum
+- Permutations
 - Search Insert Position
 - Search in Rotated Sorted Array
 - Find First and Last Position of Element in Sorted Array
