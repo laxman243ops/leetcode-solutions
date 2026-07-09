@@ -170,6 +170,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Game Play Analysis I
 - Big countries
 - Employee Bonus
+- Triangle Judgement
 - Find Customer Referee
 - Second Highest Salary
 - Nth Highest Salary
