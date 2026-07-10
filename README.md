@@ -175,6 +175,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Triangle Judgement
 - Find Customer Referee
 - Second Highest Salary
+- Average Selling Price
 - Nth Highest Salary
 - sales person
 
