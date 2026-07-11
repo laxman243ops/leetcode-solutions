@@ -85,6 +85,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Valid Parentheses
 - String to Integer (atoi)
 - Zigzag Conversion
+- Excel Sheet Column Number
 - Find the Index of the First Occurrence in a String
 
 ### Dynamic Programming
