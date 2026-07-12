@@ -68,6 +68,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - 3Sum
 - 3Sum Closest
 - 4Sum
+  
 ### Matrix
 - Valid Sudoku
 - Spiral Matrix
@@ -107,6 +108,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Arranging Coins
 - Search a 2D Matrix
 - Sqrt(x)
+- Find Smallest Letter Greater Than Target
 - Count Complete Tree Nodes
 - Find Peak Element
 - Two Sum II - Input Array Is Sorted
