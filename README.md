@@ -71,7 +71,6 @@ Hi, I'm **Laxmana Rao Butcha**.
 ### Matrix
 - Valid Sudoku
 - Spiral Matrix
-- Search a 2D Matrix
 - Maximum Square
 
 ### Strings
@@ -103,7 +102,9 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 ### Binary Search
 - Binary Search
+- Valid Perfect Square
 - First Bad Version
+- Search a 2D Matrix
 - Sqrt(x)
 - Count Complete Tree Nodes
 - Find Peak Element
