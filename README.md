@@ -71,6 +71,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 ### Matrix
 - Valid Sudoku
 - Spiral Matrix
+- Search a 2D Matrix
 - Maximum Square
 
 ### Strings
