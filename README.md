@@ -67,6 +67,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Find First and Last Position of Element in Sorted Array
 - 3Sum
 - 3Sum Closest
+- Merge Sorted Array
 - 4Sum
 - Insert Interval
   
