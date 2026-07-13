@@ -133,6 +133,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Happy Number
 - Isomorphic Strings
 - Word Pattern
+- Contains Duplicate II
 - Find the Difference
 - Intersection of Two Arrays
 - Intersection of Two Arrays II
