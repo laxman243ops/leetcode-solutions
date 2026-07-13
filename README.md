@@ -131,6 +131,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Letter Combinations of a Phone Number
 - Substring with Concatenation of All Words
 - Happy Number
+- Isomorphic Strings
 - Word Pattern
 - Find the Difference
 - Intersection of Two Arrays
