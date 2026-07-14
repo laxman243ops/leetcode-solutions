@@ -126,6 +126,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Delete Node in a Linked List
 - Palindrome Linked List
 - Design HashMap
+- Design Linked List
   
 ### Hash table
 - Intersection of Two Linked Lists
