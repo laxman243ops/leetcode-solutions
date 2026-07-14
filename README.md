@@ -125,6 +125,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Odd Even Linked List
 - Delete Node in a Linked List
 - Palindrome Linked List
+- Design HashMap
   
 ### Hash table
 - Intersection of Two Linked Lists
