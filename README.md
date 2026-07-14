@@ -124,6 +124,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Reverse Linked List
 - Odd Even Linked List
 - Delete Node in a Linked List
+- Palindrome Linked List
   
 ### Hash table
 - Intersection of Two Linked Lists
