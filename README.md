@@ -72,6 +72,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Insert Interval
 - Combination Sum II
 - Spiral Matrix II
+- Minimum Path Sum
 - Unique Paths II
   
 ### Matrix
