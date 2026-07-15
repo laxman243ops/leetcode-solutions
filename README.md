@@ -38,9 +38,9 @@ Hi, I'm **Laxmana Rao Butcha**.
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 73 |
-| Medium | 53 |
+| Medium | 57 |
 | Hard | 1 |
-| Total | 127 |
+| Total | 131 |
 
 > Updated regularly as I solve more problems.
 
