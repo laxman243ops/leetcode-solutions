@@ -86,6 +86,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Word Search
 - Valid Palindrome
 - Length of Last Word
+- Word Break
 - Minimum Add to Make Parentheses Valid
 - Longest Substring Without Repeating Characters
 - Longest Palindromic Substring
