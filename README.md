@@ -91,6 +91,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Integer to Roman
 - Valid Parentheses
 - String to Integer (atoi)
+- Simplify Path
 - Zigzag Conversion
 - Excel Sheet Column Number
 - Find the Index of the First Occurrence in a String
