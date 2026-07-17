@@ -165,6 +165,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Reverse Integer
 - Multiply Strings
 - Rotate Array
+- Count Primes
 - Pow(x, n)
 - Excel Sheet Column Title
 - Rotate Image
