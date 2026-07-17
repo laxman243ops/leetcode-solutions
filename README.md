@@ -172,6 +172,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Plus One
 - Unique Binary Search Trees
 - Gray Code
+- Different Ways to Add Parentheses
 - Power of Two
 - Add Digits
 - Unique Paths
