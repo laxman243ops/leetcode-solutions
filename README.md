@@ -168,6 +168,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Pow(x, n)
 - Excel Sheet Column Title
 - Rotate Image
+- Rectangle Area
 - Add Binary
 - Plus One
 - Unique Binary Search Trees
