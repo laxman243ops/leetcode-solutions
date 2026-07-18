@@ -122,6 +122,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Find Smallest Letter Greater Than Target
 - Count Complete Tree Nodes
 - Find Peak Element
+- Find Minimum in Rotated Sorted Array
 - Two Sum II - Input Array Is Sorted
 
 ### Linked Lists
