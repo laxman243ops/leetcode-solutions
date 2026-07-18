@@ -118,6 +118,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Arranging Coins
 - Search a 2D Matrix
 - Sqrt(x)
+- Search in Rotated Sorted Array II
 - Find Smallest Letter Greater Than Target
 - Count Complete Tree Nodes
 - Find Peak Element
