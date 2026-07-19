@@ -110,6 +110,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Counting Bits
 - Is Subsequence
 - Pascal's Triangle II
+- Coin Change II
 - Longest Palindromic Subsequence
 
 
