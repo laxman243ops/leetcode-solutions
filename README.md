@@ -104,6 +104,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Climbing Stairs
 - Generate Parentheses
 - Pascal's Triangle
+- Best Time to Buy and Sell Stock
 - Decode Ways
 - Edit Distance
 - Counting Bits
