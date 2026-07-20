@@ -199,6 +199,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Employees Earning More Than Their Managers
 - Customers Who Never Order
 - Consecutive Numbers
+- Product Sales Analysis I
 - Delete Duplicate Emails
 - Customer Placing the Largest Number of Orders
 - Rising Temperature
