@@ -97,6 +97,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - String to Integer (atoi)
 - Simplify Path
 - Zigzag Conversion
+- Compare Version Numbers
 - Excel Sheet Column Number
 - Find the Index of the First Occurrence in a String
 
