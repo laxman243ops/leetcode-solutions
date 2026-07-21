@@ -86,6 +86,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Word Search
 - Valid Palindrome
 - Length of Last Word
+- Restore IP Addresses
 - Word Break
 - Minimum Add to Make Parentheses Valid
 - Fraction to Recurring Decimal
