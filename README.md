@@ -171,6 +171,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Longest Palindrome
 - Container With Most Water
 -  Assign Cookies
+-  Remove Duplicate Letters
 
 ### Mathematics
 - Sum of Good Numbers
