@@ -174,6 +174,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 -  Assign Cookies
 -  Remove Duplicate Letters
 -  Gas Station
+-  Largest Number
 
 ### Mathematics
 - Sum of Good Numbers
