@@ -35,16 +35,9 @@ Hi, I'm **Laxmana Rao Butcha**.
 
 ## 📈 Progress Tracker
 
-| Difficulty | Solved |
-|------------|--------|
-| Easy | 79 |
-| Medium | 77 |
-| Hard | 2 |
-| Total | 158 |
-
-> Updated regularly as I solve more problems.
-
----
+<p align="center">
+  <img src="https://leetcode-badge.vercel.app/api/users/teYYT7tVul?theme=dark&extension=activity" alt="LeetCode Stats"/>
+</p>
 
 ## 📚 Topics Covered
 
