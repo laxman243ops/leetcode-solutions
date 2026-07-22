@@ -36,7 +36,9 @@ Hi, I'm **Laxmana Rao Butcha**.
 ## 📈 Progress Tracker
 
 <p align="center">
-  <img src="https://leetcode-badge.vercel.app/api/users/teYYT7tVul?theme=dark&extension=activity" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/teYYT7tVul/">
+    <img src="https://leetcode-stats-api.vercel.app/api?username=teYYT7tVul&theme=dark" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ## 📚 Topics Covered
