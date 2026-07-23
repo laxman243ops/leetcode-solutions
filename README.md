@@ -137,6 +137,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Remove Duplicates from Sorted List
 - Swap Nodes in Pairs
 - Remove Linked List Elements
+- Remove Nth Node From End of List
 - Reverse Linked List
 - Minimum Pair Removal to Sort Array I
 - Convert Binary Number in a Linked List to Integer
