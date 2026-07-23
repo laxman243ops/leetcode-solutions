@@ -138,6 +138,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Swap Nodes in Pairs
 - Remove Linked List Elements
 - Reverse Linked List
+- Convert Binary Number in a Linked List to Integer
 - Odd Even Linked List
 - Delete Node in a Linked List
 - Palindrome Linked List
