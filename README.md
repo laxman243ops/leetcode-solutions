@@ -143,6 +143,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Palindrome Linked List
 - Design HashMap
 - Design Linked List
+- Design HashSet
   
 ### Hash table
 - Intersection of Two Linked Lists
