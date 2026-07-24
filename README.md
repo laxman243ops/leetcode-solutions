@@ -218,6 +218,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Employee Bonus
 - Not Boring Movies
 - Triangle Judgement
+- Capital Gain/Loss
 - Find Customer Referee
 - Second Highest Salary
 - Average Selling Price
