@@ -224,6 +224,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Average Selling Price
 - Nth Highest Salary
 - sales person
+- Department Top Three Salaries
 - Reformat Department Table
 - Project Employees I
 
