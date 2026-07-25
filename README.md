@@ -20,7 +20,9 @@
 
 <table>
 <tr>
-<td width="120" align="center">🎓</td>
+<td width="120" align="center">
+<img src="https://assets.leetcode.com/users/teYYT7tVul/avatar_1720427853.png" width="90" style="border-radius:50%"/>
+</td>
 <td>
 
 **Laxmana Rao Butcha**
@@ -40,11 +42,25 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 
 <img src="https://leetcode-stats-api.vercel.app/api?username=teYYT7tVul&theme=dark" alt="LeetCode Stats" width="480"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=dark&hide_border=true" alt="GitHub Streak" width="480"/>
-
 </div>
+
+### 🧮 LeetCode Snapshot (live profile: [teYYT7tVul](https://leetcode.com/u/teYYT7tVul/))
+
+| Metric | Value |
+|:--|:--:|
+| 🏅 Global Rank | 1,012,843 |
+| 🐍 Python | 130 problems solved |
+| 🗄️ MySQL | 31 problems solved |
+| ⚙️ C++ | 6 problems solved |
+| **Σ Total Solved** | **167** |
+
+### 🧠 Top Skill Tags
+
+| Level | Tags |
+|:--|:--|
+| 🔴 Advanced | Dynamic Programming ×26 · Backtracking ×9 · Divide and Conquer ×2 |
+| 🟡 Intermediate | Math ×31 · Database ×31 · Hash Table ×28 |
+| 🟢 Fundamental | Array ×68 · String ×39 · Two Pointers ×24 |
 
 ### 🏁 Milestones
 
@@ -55,11 +71,12 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 | First 25 Problems | ✅ |
 | First 50 Problems | ✅ |
 | First 100 Problems | ✅ |
+| First 150 Problems | ✅ |
 | First 250 Problems | ⬜ |
 | First 500 Problems | ⬜ |
 
 ```
-Progress: [██████████░░░░░░░░░░░░░░░░] 100 / 250 → next milestone
+Progress: [█████████████████░░░░░░░░░] 167 / 250 → next milestone
 ```
 
 ---
