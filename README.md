@@ -48,6 +48,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Remove Duplicates from Sorted Array
 - Remove Element
 - Single Number
+- Longest Consecutive Sequence
 - Majority Element
 - Contains Duplicate
 - Max Consecutive Ones
