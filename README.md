@@ -5,12 +5,12 @@
 ### *Consistency beats intensity — one problem every day is better than 100 problems once a month.*
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/teYYT7tVul/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-github-username>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-linkedin>)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxman243ops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxman-butcha-359208280/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=<your-github-username>&style=for-the-badge&color=blueviolet)
-![Last Commit](https://img.shields.io/github/last-commit/<your-github-username>/<your-repo-name>?style=for-the-badge&color=success)
-![Repo Size](https://img.shields.io/github/repo-size/<your-github-username>/<your-repo-name>?style=for-the-badge&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=laxman243ops&style=for-the-badge&color=blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/laxman243ops/LeetCode-Solutions?style=for-the-badge&color=success)
+![Repo Size](https://img.shields.io/github/repo-size/laxman243ops/LeetCode-Solutions?style=for-the-badge&color=orange)
 
 </div>
 
