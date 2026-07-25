@@ -1,49 +1,84 @@
-# 🚀 LeetCode Solutions
+<div align="center">
 
-Welcome to my LeetCode problem-solving repository!
+# 🚀 LeetCode Solutions Vault
 
-I am consistently solving LeetCode problems to strengthen my understanding of Data Structures, Algorithms, Problem Solving, and Coding Interview Preparation.
+### *Consistency beats intensity — one problem every day is better than 100 problems once a month.*
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/teYYT7tVul/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-github-username>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-linkedin>)
+
+![Profile Views](https://komarev.com/ghpvc/?username=<your-github-username>&style=for-the-badge&color=blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/<your-github-username>/<your-repo-name>?style=for-the-badge&color=success)
+![Repo Size](https://img.shields.io/github/repo-size/<your-github-username>/<your-repo-name>?style=for-the-badge&color=orange)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Laxmana Rao Butcha**.
+<table>
+<tr>
+<td width="120" align="center">🎓</td>
+<td>
 
-🎓 Final Year Computer Science Engineering Student  
-🤖 Aspiring AI Engineer & Data Analytics Engineer  
-☁️ AWS Cloud Enthusiast  
-💡 Passionate about Problem Solving and Software Development
+**Laxmana Rao Butcha**
+Final Year Computer Science Engineering Student
+Aspiring **AI Engineer** & **Data Analytics Engineer**
+☁️ AWS Cloud Enthusiast · 💡 Problem-Solving Enthusiast
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Progress Tracker
+
+<div align="center">
+
+<img src="https://leetcode-stats-api.vercel.app/api?username=teYYT7tVul&theme=dark" alt="LeetCode Stats" width="480"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=dark&hide_border=true" alt="GitHub Streak" width="480"/>
+
+</div>
+
+### 🏁 Milestones
+
+| Milestone | Status |
+|:--|:--:|
+| First 10 Problems | ✅ |
+| First 15 Problems | ✅ |
+| First 25 Problems | ✅ |
+| First 50 Problems | ✅ |
+| First 100 Problems | ✅ |
+| First 250 Problems | ⬜ |
+| First 500 Problems | ⬜ |
+
+```
+Progress: [██████████░░░░░░░░░░░░░░░░] 100 / 250 → next milestone
+```
 
 ---
 
 ## 🎯 Goals
 
-- Solve LeetCode problems daily
-- Master Data Structures and Algorithms
-- Improve coding speed and optimization skills
-- Prepare for technical interviews
-- Maintain consistency and GitHub contribution streak
+- 🗓️ Solve LeetCode problems **daily**
+- 🧠 Master **Data Structures & Algorithms**
+- ⚡ Improve coding **speed & optimization**
+- 🎤 Prepare for **technical interviews**
+- 🔥 Maintain a **consistent GitHub contribution streak**
 
 ---
-
-## 🔗 Profiles
-
-- LeetCode: https://leetcode.com/u/teYYT7tVul/
-- GitHub: https://github.com/<your-github-username>
-- LinkedIn: https://linkedin.com/in/<your-linkedin>
-
----
-
-## 📈 Progress Tracker
-
-<p align="center">
-  <a href="https://leetcode.com/u/teYYT7tVul/">
-    <img src="https://leetcode-stats-api.vercel.app/api?username=teYYT7tVul&theme=dark" alt="LeetCode Stats" />
-  </a>
-</p>
 
 ## 📚 Topics Covered
 
-### Arrays
+<details>
+<summary><b>🔢 Arrays</b> (27 problems)</summary>
+
 - Two Sum
 - Remove Duplicates from Sorted Array
 - Remove Element
@@ -72,13 +107,21 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Spiral Matrix II
 - Minimum Path Sum
 - Unique Paths II
-  
-### Matrix
+
+</details>
+
+<details>
+<summary><b>🧩 Matrix</b> (3 problems)</summary>
+
 - Valid Sudoku
 - Spiral Matrix
 - Maximum Square
 
-### Strings
+</details>
+
+<details>
+<summary><b>🔤 Strings</b> (21 problems)</summary>
+
 - Roman to Integer
 - Palindrome Number
 - Word Search
@@ -101,7 +144,11 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Excel Sheet Column Number
 - Find the Index of the First Occurrence in a String
 
-### Dynamic Programming
+</details>
+
+<details>
+<summary><b>📈 Dynamic Programming</b> (14 problems)</summary>
+
 - Maximum Subarray
 - Fibonacci Number
 - Climbing Stairs
@@ -117,8 +164,11 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Coin Change II
 - Longest Palindromic Subsequence
 
+</details>
 
-### Binary Search
+<details>
+<summary><b>🔍 Binary Search</b> (14 problems)</summary>
+
 - Binary Search
 - Valid Perfect Square
 - First Bad Version
@@ -134,7 +184,11 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Find Minimum in Rotated Sorted Array
 - Two Sum II - Input Array Is Sorted
 
-### Linked Lists
+</details>
+
+<details>
+<summary><b>🔗 Linked Lists</b> (15 problems)</summary>
+
 - Add Two Numbers
 - Merge Two Sorted Lists
 - Remove Duplicates from Sorted List
@@ -150,8 +204,12 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Design HashMap
 - Design Linked List
 - Design HashSet
-  
-### Hash table
+
+</details>
+
+<details>
+<summary><b>🗂️ Hash Table</b> (13 problems)</summary>
+
 - Intersection of Two Linked Lists
 - Linked List Cycle
 - Letter Combinations of a Phone Number
@@ -165,20 +223,28 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Intersection of Two Arrays
 - Intersection of Two Arrays II
 - Missing Number
-  
-### Greedy Algorithms
+
+</details>
+
+<details>
+<summary><b>🌱 Greedy Algorithms</b> (10 problems)</summary>
+
 - Jump Game
 - Lemonade Change
 - Jump Game II
 - Longest Palindrome
 - Best Time to Buy and Sell Stock II
 - Container With Most Water
--  Assign Cookies
--  Remove Duplicate Letters
--  Gas Station
--  Largest Number
+- Assign Cookies
+- Remove Duplicate Letters
+- Gas Station
+- Largest Number
 
-### Mathematics
+</details>
+
+<details>
+<summary><b>➗ Mathematics</b> (17 problems)</summary>
+
 - Sum of Good Numbers
 - Divide Two Integers
 - Reverse Integer
@@ -198,12 +264,16 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Add Digits
 - Unique Paths
 
-### MySQL
+</details>
+
+<details>
+<summary><b>🗄️ MySQL</b> (29 problems)</summary>
+
 - Combine Two Tables
 - Duplicate Emails
 - Department Highest Salary
 - Rank Scores
-- Biggest single Number
+- Biggest Single Number
 - Investments in 2016
 - Friend Requests II: Who Has the Most Friends
 - Employees Earning More Than Their Managers
@@ -217,7 +287,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Students and Examinations
 - Game Play Analysis I
 - User Activity for the Past 30 Days I
-- Big countries
+- Big Countries
 - Employee Bonus
 - Not Boring Movies
 - Triangle Judgement
@@ -226,54 +296,57 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Second Highest Salary
 - Average Selling Price
 - Nth Highest Salary
-- sales person
+- Sales Person
 - Department Top Three Salaries
 - Reformat Department Table
 - Project Employees I
+
+</details>
 
 ---
 
 ## 📝 Solution Format
 
-Each solution includes:
+Every solution in this repo follows a consistent structure:
 
-- Problem Statement Link
-- Approach Explanation
-- Time Complexity
-- Space Complexity
-- Clean Code Solution
+| Section | Description |
+|---|---|
+| 🔗 **Problem Link** | Direct link to the original LeetCode problem |
+| 🧭 **Approach** | Explanation of the strategy used to solve it |
+| ⏱️ **Time Complexity** | Big-O time analysis |
+| 💾 **Space Complexity** | Big-O space analysis |
+| 💻 **Clean Code** | Well-commented, readable solution |
 
-Example:
+### Example
 
-### 1. Two Sum
+<details>
+<summary><b>1. Two Sum</b></summary>
 
-Problem:
-https://leetcode.com/problems/two-sum/
+**Problem:** [leetcode.com/problems/two-sum](https://leetcode.com/problems/two-sum/)
 
-Time Complexity: O(n)
+**Time Complexity:** `O(n)`
+**Space Complexity:** `O(n)`
+**Language(s):** Python, MySQL
 
-Space Complexity: O(n)
-
-Language: Python,MySQL
+</details>
 
 ---
 
-## 🔥 Current Streak
+## 🛠️ Tech Stack
 
-Maintaining daily coding consistency through LeetCode and GitHub commits.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### Milestones
+---
 
-- [x] First 10 Problems
-- [x] First 15 Problems
-- [x] First 25 Problems
-- [x] First 50 Problems
-- [x] First 100 Problems
-- [ ] First 250 Problems
-- [ ] First 500 Problems
+## 🌟 Support
 
-## 💪 Quote
+If this repository helped you in your DSA journey, consider giving it a ⭐ — it keeps the motivation going!
 
-"Consistency beats intensity. One problem every day is better than 100 problems once a month."
+<div align="center">
 
-⭐ Star this repository if you find it useful!
+**Happy Coding! 👨‍💻✨**
+
+</div>
