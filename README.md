@@ -50,6 +50,7 @@ Hi, I'm **Laxmana Rao Butcha**.
 - Single Number
 - Longest Consecutive Sequence
 - Majority Element
+- Surrounded Regions
 - Contains Duplicate
 - Max Consecutive Ones
 - Longest Common Prefix
