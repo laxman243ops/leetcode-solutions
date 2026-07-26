@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🚀 LeetCode Solutions Vault
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=LeetCode%20Solutions%20Vault&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Consistency%20beats%20intensity&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFA116&center=true&vCenter=true&width=600&lines=Consistency+beats+intensity.;One+problem+a+day+%3E+100+problems+once+a+month.;167+solved+and+counting..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FFA116&center=true&vCenter=true&width=600&lines=One+problem+a+day+%3E+100+problems+once+a+month.;167+solved+and+climbing...;Building+DSA+mastery%2C+one+commit+at+a+time." alt="Typing SVG" />
+
+<br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/teYYT7tVul/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxman243ops)
@@ -10,7 +12,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=laxman243ops&style=for-the-badge&color=blueviolet)
 ![Last Commit](https://img.shields.io/github/last-commit/laxman243ops/LeetCode-Solutions?style=for-the-badge&color=success)
-![Repo Size](https://img.shields.io/github/repo-size/laxman243ops/LeetCode-Solutions?style=for-the-badge&color=orange)
 
 </div>
 
@@ -18,21 +19,10 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="120" align="center">
-<img src="https://assets.leetcode.com/users/teYYT7tVul/avatar_1720427853.png" width="90" style="border-radius:50%"/>
-</td>
-<td>
-
 **Laxmana Rao Butcha**
 Final Year Computer Science Engineering Student
 Aspiring **AI Engineer** & **Data Analytics Engineer**
 ☁️ AWS Cloud Enthusiast &nbsp;·&nbsp; 💡 Problem-Solving Enthusiast
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -42,7 +32,22 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 
 <div align="center">
 
-<img src="https://leetcode-stats-api.vercel.app/api?username=teYYT7tVul&theme=dark" alt="LeetCode Stats" width="480"/>
+<svg width="640" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="overallGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFA116"/>
+      <stop offset="100%" stop-color="#ff5f6d"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="15" width="620" height="30" rx="15" fill="#2b2b2b"/>
+  <rect x="10" y="15" height="30" rx="15" fill="url(#overallGrad)">
+    <animate attributeName="width" from="0" to="415" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+  <text x="320" y="35" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="14" font-weight="bold">
+    167 / 250 solved — 67%
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.2s" fill="freeze"/>
+  </text>
+</svg>
 
 </div>
 
@@ -50,31 +55,56 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 
 <div align="center">
 
-**Overall Journey — 167 / 250 problems**
+<svg width="640" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ms1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#4c9f70"/><stop offset="100%" stop-color="#1abc9c"/></linearGradient>
+    <linearGradient id="msActive" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FFA116"/><stop offset="100%" stop-color="#ff5f6d"/></linearGradient>
+    <linearGradient id="msPending" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#555"/><stop offset="100%" stop-color="#777"/></linearGradient>
+  </defs>
 
-![Overall Progress](https://progress-bar.dev/67/?title=Total%20Progress&width=500&color=babca3)
+  <text x="0" y="18" fill="#ffffff" font-family="Segoe UI" font-size="13">Starter · 10</text>
+  <rect x="180" y="6" width="440" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="180" y="6" height="16" rx="8" fill="url(#ms1)"><animate attributeName="width" from="0" to="440" dur="1s" begin="0.0s" fill="freeze"/></rect>
+  <text x="630" y="18" fill="#4c9f70" font-family="Segoe UI" font-size="12">✓</text>
+
+  <text x="0" y="52" fill="#ffffff" font-family="Segoe UI" font-size="13">Warm-Up · 25</text>
+  <rect x="180" y="40" width="440" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="180" y="40" height="16" rx="8" fill="url(#ms1)"><animate attributeName="width" from="0" to="440" dur="1s" begin="0.15s" fill="freeze"/></rect>
+  <text x="630" y="52" fill="#4c9f70" font-family="Segoe UI" font-size="12">✓</text>
+
+  <text x="0" y="86" fill="#ffffff" font-family="Segoe UI" font-size="13">Momentum · 50</text>
+  <rect x="180" y="74" width="440" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="180" y="74" height="16" rx="8" fill="url(#ms1)"><animate attributeName="width" from="0" to="440" dur="1s" begin="0.3s" fill="freeze"/></rect>
+  <text x="630" y="86" fill="#4c9f70" font-family="Segoe UI" font-size="12">✓</text>
+
+  <text x="0" y="120" fill="#ffffff" font-family="Segoe UI" font-size="13">Century Club · 100</text>
+  <rect x="180" y="108" width="440" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="180" y="108" height="16" rx="8" fill="url(#ms1)"><animate attributeName="width" from="0" to="440" dur="1s" begin="0.45s" fill="freeze"/></rect>
+  <text x="630" y="120" fill="#4c9f70" font-family="Segoe UI" font-size="12">✓</text>
+
+  <text x="0" y="154" fill="#ffffff" font-family="Segoe UI" font-size="13">Grinder · 150</text>
+  <rect x="180" y="142" width="440" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="180" y="142" height="16" rx="8" fill="url(#ms1)"><animate attributeName="width" from="0" to="440" dur="1s" begin="0.6s" fill="freeze"/></rect>
+  <text x="630" y="154" fill="#4c9f70" font-family="Segoe UI" font-size="12">✓</text>
+
+  <text x="0" y="188" fill="#ffffff" font-family="Segoe UI" font-size="13">Elite 250 · in progress</text>
+  <rect x="180" y="176" width="440" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="180" y="176" height="16" rx="8" fill="url(#msActive)"><animate attributeName="width" from="0" to="295" dur="1.2s" begin="0.75s" fill="freeze"/></rect>
+  <text x="630" y="188" fill="#FFA116" font-family="Segoe UI" font-size="12">67%</text>
+
+  <text x="0" y="222" fill="#ffffff" font-family="Segoe UI" font-size="13">Legend 500 · upcoming</text>
+  <rect x="180" y="210" width="440" height="16" rx="8" fill="#2b2b2b"/>
+  <rect x="180" y="210" height="16" rx="8" fill="url(#msPending)"><animate attributeName="width" from="0" to="145" dur="1.2s" begin="0.9s" fill="freeze"/></rect>
+  <text x="630" y="222" fill="#999999" font-family="Segoe UI" font-size="12">33%</text>
+</svg>
 
 </div>
-
-| Milestone | Target | Status | Progress |
-|:--|:--:|:--:|:--|
-| Starter | 10 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
-| Warm-Up | 25 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
-| Building Momentum | 50 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
-| Century Club | 100 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
-| Grinder | 150 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
-| Elite 250 | 250 | 🔄 In Progress | ![](https://progress-bar.dev/67/?scale=100&width=120&color=FFA116) |
-| Legend 500 | 500 | ⬜ Upcoming | ![](https://progress-bar.dev/33/?scale=100&width=120&color=8a8a8a) |
 
 <br/>
 
 ---
 
 ## 🧮 LeetCode Snapshot
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 | Metric | Value |
 |:--|:--:|
@@ -84,20 +114,29 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 | ⚙️ C++ | 6 problems |
 | **Σ Total Solved** | **167** |
 
-**Language Split**
+<div align="center">
 
-![Python](https://progress-bar.dev/78/?title=Python&width=350&color=3776AB)
-![MySQL](https://progress-bar.dev/19/?title=MySQL&width=350&color=4479A1)
-![C++](https://progress-bar.dev/4/?title=C%2B%2B&width=350&color=00599C)
+<svg width="640" height="150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="py" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#3776AB"/><stop offset="100%" stop-color="#4dabf7"/></linearGradient>
+    <linearGradient id="sql" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#4479A1"/><stop offset="100%" stop-color="#74c0fc"/></linearGradient>
+    <linearGradient id="cpp" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#00599C"/><stop offset="100%" stop-color="#5aa9e6"/></linearGradient>
+  </defs>
 
-</td>
-<td width="45%" align="center">
+  <text x="0" y="18" fill="#ffffff" font-family="Segoe UI" font-size="13">Python · 130</text>
+  <rect x="140" y="6" width="480" height="18" rx="9" fill="#2b2b2b"/>
+  <rect x="140" y="6" height="18" rx="9" fill="url(#py)"><animate attributeName="width" from="0" to="480" dur="1.4s" begin="0s" fill="freeze"/></rect>
 
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python (130)','MySQL (31)','C++ (6)'],datasets:[{data:[130,31,6],backgroundColor:['%233776AB','%234479A1','%2300599C']}]},options:{plugins:{legend:{position:'bottom',labels:{color:'white',font:{size:12}}},title:{display:true,text:'Solved by Language',color:'white',font:{size:15}}}}}&backgroundColor=%231e1e2e&width=380&height=320" width="330" alt="Language distribution pie chart"/>
+  <text x="0" y="66" fill="#ffffff" font-family="Segoe UI" font-size="13">MySQL · 31</text>
+  <rect x="140" y="54" width="480" height="18" rx="9" fill="#2b2b2b"/>
+  <rect x="140" y="54" height="18" rx="9" fill="url(#sql)"><animate attributeName="width" from="0" to="114" dur="1.4s" begin="0.2s" fill="freeze"/></rect>
 
-</td>
-</tr>
-</table>
+  <text x="0" y="114" fill="#ffffff" font-family="Segoe UI" font-size="13">C++ · 6</text>
+  <rect x="140" y="102" width="480" height="18" rx="9" fill="#2b2b2b"/>
+  <rect x="140" y="102" height="18" rx="9" fill="url(#cpp)"><animate attributeName="width" from="0" to="22" dur="1.4s" begin="0.4s" fill="freeze"/></rect>
+</svg>
+
+</div>
 
 <br/>
 
@@ -107,7 +146,50 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Array','String','Math','Database','Hash Table','Two Pointers','Dynamic Programming','Backtracking','Divide %26 Conquer'],datasets:[{label:'Problems Solved',data:[68,39,31,31,28,24,26,9,2],backgroundColor:['%23e74c3c','%23e67e22','%23f1c40f','%232ecc71','%233498db','%239b59b6','%23e84393','%2300cec9','%23636e72']}]},options:{indexAxis:'y',plugins:{legend:{display:false},title:{display:true,text:'Top Skill Tags — Problems Solved',color:'white',font:{size:16}}},scales:{x:{ticks:{color:'white'}},y:{ticks:{color:'white'}}}}}&backgroundColor=%231e1e2e&width=650&height=420" width="600" alt="Skill tag bar chart"/>
+<svg width="640" height="340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tagGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFA116"/>
+      <stop offset="100%" stop-color="#e74c3c"/>
+    </linearGradient>
+  </defs>
+
+  <text x="0" y="16" fill="#ffffff" font-family="Segoe UI" font-size="12">Array · 68</text>
+  <rect x="170" y="4" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="4" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="410" dur="1.2s" begin="0.0s" fill="freeze"/></rect>
+
+  <text x="0" y="50" fill="#ffffff" font-family="Segoe UI" font-size="12">String · 39</text>
+  <rect x="170" y="38" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="38" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="235" dur="1.2s" begin="0.1s" fill="freeze"/></rect>
+
+  <text x="0" y="84" fill="#ffffff" font-family="Segoe UI" font-size="12">Math · 31</text>
+  <rect x="170" y="72" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="72" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="187" dur="1.2s" begin="0.2s" fill="freeze"/></rect>
+
+  <text x="0" y="118" fill="#ffffff" font-family="Segoe UI" font-size="12">Database · 31</text>
+  <rect x="170" y="106" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="106" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="187" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
+
+  <text x="0" y="152" fill="#ffffff" font-family="Segoe UI" font-size="12">Hash Table · 28</text>
+  <rect x="170" y="140" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="140" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="169" dur="1.2s" begin="0.4s" fill="freeze"/></rect>
+
+  <text x="0" y="186" fill="#ffffff" font-family="Segoe UI" font-size="12">Dynamic Programming · 26</text>
+  <rect x="170" y="174" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="174" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="157" dur="1.2s" begin="0.5s" fill="freeze"/></rect>
+
+  <text x="0" y="220" fill="#ffffff" font-family="Segoe UI" font-size="12">Two Pointers · 24</text>
+  <rect x="170" y="208" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="208" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="145" dur="1.2s" begin="0.6s" fill="freeze"/></rect>
+
+  <text x="0" y="254" fill="#ffffff" font-family="Segoe UI" font-size="12">Backtracking · 9</text>
+  <rect x="170" y="242" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="242" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="54" dur="1.2s" begin="0.7s" fill="freeze"/></rect>
+
+  <text x="0" y="288" fill="#ffffff" font-family="Segoe UI" font-size="12">Divide &amp; Conquer · 2</text>
+  <rect x="170" y="276" width="410" height="14" rx="7" fill="#2b2b2b"/>
+  <rect x="170" y="276" height="14" rx="7" fill="url(#tagGrad)"><animate attributeName="width" from="0" to="12" dur="1.2s" begin="0.8s" fill="freeze"/></rect>
+</svg>
 
 </div>
 
@@ -122,12 +204,6 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 ---
 
 ## 📚 Topics Covered
-
-<div align="center">
-
-<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Arrays (27)','Strings (21)','MySQL (29)','Math (17)','Linked Lists (15)','DP (14)','Binary Search (14)','Hash Table (13)','Greedy (10)','Matrix (3)'],datasets:[{data:[27,21,29,17,15,14,14,13,10,3],backgroundColor:['%23e74c3c','%23e67e22','%23f1c40f','%232ecc71','%2316a085','%233498db','%239b59b6','%23e84393','%2300cec9','%23636e72']}]},options:{plugins:{legend:{position:'right',labels:{color:'white',font:{size:11}}},title:{display:true,text:'Problems by Topic',color:'white',font:{size:16}}}}}&backgroundColor=%231e1e2e&width=650&height=380" width="600" alt="Topics distribution pie chart"/>
-
-</div>
 
 <details>
 <summary><b>🔢 Arrays</b> (27 problems)</summary>
@@ -416,8 +492,6 @@ Every solution in this repo follows a consistent structure:
 
 If this repository helped you in your DSA journey, consider giving it a ⭐ — it keeps the motivation going!
 
-<div align="center">
-
-**Happy Coding! 👨‍💻✨**
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
