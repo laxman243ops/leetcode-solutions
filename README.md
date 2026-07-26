@@ -206,7 +206,7 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 ## 📚 Topics Covered
 
 <details>
-<summary><b>🔢 Arrays</b> (27 problems)</summary>
+<summary><b>🔢 Arrays</b> (29 problems)</summary>
 
 - Two Sum
 - Remove Duplicates from Sorted Array
