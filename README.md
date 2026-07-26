@@ -2,7 +2,7 @@
 
 # 🚀 LeetCode Solutions Vault
 
-### *Consistency beats intensity — one problem every day is better than 100 problems once a month.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFA116&center=true&vCenter=true&width=600&lines=Consistency+beats+intensity.;One+problem+a+day+%3E+100+problems+once+a+month.;167+solved+and+counting..." alt="Typing SVG" />
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/teYYT7tVul/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laxman243ops)
@@ -14,7 +14,7 @@
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -28,15 +28,17 @@
 **Laxmana Rao Butcha**
 Final Year Computer Science Engineering Student
 Aspiring **AI Engineer** & **Data Analytics Engineer**
-☁️ AWS Cloud Enthusiast · 💡 Problem-Solving Enthusiast
+☁️ AWS Cloud Enthusiast &nbsp;·&nbsp; 💡 Problem-Solving Enthusiast
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## 📊 Progress Tracker
+## 📊 Progress Overview
 
 <div align="center">
 
@@ -44,17 +46,70 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 
 </div>
 
-### 🧮 LeetCode Snapshot (live profile: [teYYT7tVul](https://leetcode.com/u/teYYT7tVul/))
+<br/>
+
+<div align="center">
+
+**Overall Journey — 167 / 250 problems**
+
+![Overall Progress](https://progress-bar.dev/67/?title=Total%20Progress&width=500&color=babca3)
+
+</div>
+
+| Milestone | Target | Status | Progress |
+|:--|:--:|:--:|:--|
+| Starter | 10 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
+| Warm-Up | 25 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
+| Building Momentum | 50 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
+| Century Club | 100 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
+| Grinder | 150 | ✅ Complete | ![](https://progress-bar.dev/100/?scale=100&width=120&color=4c9f70) |
+| Elite 250 | 250 | 🔄 In Progress | ![](https://progress-bar.dev/67/?scale=100&width=120&color=FFA116) |
+| Legend 500 | 500 | ⬜ Upcoming | ![](https://progress-bar.dev/33/?scale=100&width=120&color=8a8a8a) |
+
+<br/>
+
+---
+
+## 🧮 LeetCode Snapshot
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 | Metric | Value |
 |:--|:--:|
 | 🏅 Global Rank | 1,012,843 |
-| 🐍 Python | 130 problems solved |
-| 🗄️ MySQL | 31 problems solved |
-| ⚙️ C++ | 6 problems solved |
+| 🐍 Python | 130 problems |
+| 🗄️ MySQL | 31 problems |
+| ⚙️ C++ | 6 problems |
 | **Σ Total Solved** | **167** |
 
-### 🧠 Top Skill Tags
+**Language Split**
+
+![Python](https://progress-bar.dev/78/?title=Python&width=350&color=3776AB)
+![MySQL](https://progress-bar.dev/19/?title=MySQL&width=350&color=4479A1)
+![C++](https://progress-bar.dev/4/?title=C%2B%2B&width=350&color=00599C)
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Python (130)','MySQL (31)','C++ (6)'],datasets:[{data:[130,31,6],backgroundColor:['%233776AB','%234479A1','%2300599C']}]},options:{plugins:{legend:{position:'bottom',labels:{color:'white',font:{size:12}}},title:{display:true,text:'Solved by Language',color:'white',font:{size:15}}}}}&backgroundColor=%231e1e2e&width=380&height=320" width="330" alt="Language distribution pie chart"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🧠 Skill Tag Mastery
+
+<div align="center">
+
+<img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Array','String','Math','Database','Hash Table','Two Pointers','Dynamic Programming','Backtracking','Divide %26 Conquer'],datasets:[{label:'Problems Solved',data:[68,39,31,31,28,24,26,9,2],backgroundColor:['%23e74c3c','%23e67e22','%23f1c40f','%232ecc71','%233498db','%239b59b6','%23e84393','%2300cec9','%23636e72']}]},options:{indexAxis:'y',plugins:{legend:{display:false},title:{display:true,text:'Top Skill Tags — Problems Solved',color:'white',font:{size:16}}},scales:{x:{ticks:{color:'white'}},y:{ticks:{color:'white'}}}}}&backgroundColor=%231e1e2e&width=650&height=420" width="600" alt="Skill tag bar chart"/>
+
+</div>
 
 | Level | Tags |
 |:--|:--|
@@ -62,36 +117,17 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 | 🟡 Intermediate | Math ×31 · Database ×31 · Hash Table ×28 |
 | 🟢 Fundamental | Array ×68 · String ×39 · Two Pointers ×24 |
 
-### 🏁 Milestones
-
-| Milestone | Status |
-|:--|:--:|
-| First 10 Problems | ✅ |
-| First 15 Problems | ✅ |
-| First 25 Problems | ✅ |
-| First 50 Problems | ✅ |
-| First 100 Problems | ✅ |
-| First 150 Problems | ✅ |
-| First 250 Problems | ⬜ |
-| First 500 Problems | ⬜ |
-
-```
-Progress: [█████████████████░░░░░░░░░] 167 / 250 → next milestone
-```
-
----
-
-## 🎯 Goals
-
-- 🗓️ Solve LeetCode problems **daily**
-- 🧠 Master **Data Structures & Algorithms**
-- ⚡ Improve coding **speed & optimization**
-- 🎤 Prepare for **technical interviews**
-- 🔥 Maintain a **consistent GitHub contribution streak**
+<br/>
 
 ---
 
 ## 📚 Topics Covered
+
+<div align="center">
+
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Arrays (27)','Strings (21)','MySQL (29)','Math (17)','Linked Lists (15)','DP (14)','Binary Search (14)','Hash Table (13)','Greedy (10)','Matrix (3)'],datasets:[{data:[27,21,29,17,15,14,14,13,10,3],backgroundColor:['%23e74c3c','%23e67e22','%23f1c40f','%232ecc71','%2316a085','%233498db','%239b59b6','%23e84393','%2300cec9','%23636e72']}]},options:{plugins:{legend:{position:'right',labels:{color:'white',font:{size:11}}},title:{display:true,text:'Problems by Topic',color:'white',font:{size:16}}}}}&backgroundColor=%231e1e2e&width=650&height=380" width="600" alt="Topics distribution pie chart"/>
+
+</div>
 
 <details>
 <summary><b>🔢 Arrays</b> (27 problems)</summary>
@@ -320,6 +356,20 @@ Progress: [█████████████████░░░░░░
 
 </details>
 
+<br/>
+
+---
+
+## 🎯 Goals
+
+- 🗓️ Solve LeetCode problems **daily**
+- 🧠 Master **Data Structures & Algorithms**
+- ⚡ Improve coding **speed & optimization**
+- 🎤 Prepare for **technical interviews**
+- 🔥 Maintain a **consistent GitHub contribution streak**
+
+<br/>
+
 ---
 
 ## 📝 Solution Format
@@ -347,6 +397,8 @@ Every solution in this repo follows a consistent structure:
 
 </details>
 
+<br/>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -355,6 +407,8 @@ Every solution in this repo follows a consistent structure:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br/>
 
 ---
 
