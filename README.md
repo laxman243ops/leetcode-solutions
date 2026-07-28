@@ -44,7 +44,7 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
     <animate attributeName="width" from="0" to="415" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
   <text x="320" y="35" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="14" font-weight="bold">
-    167 / 250 solved — 67%
+    168 / 250 solved — 67%
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.2s" fill="freeze"/>
   </text>
 </svg>
@@ -118,7 +118,7 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 | 🐍 Python | 130 problems |
 | 🗄️ MySQL | 31 problems |
 | ⚙️ C++ | 6 problems |
-| **Σ Total Solved** | **167** |
+| **Σ Total Solved** | **168** |
 
 <div align="center">
 
@@ -398,6 +398,12 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 - Power of Two
 - Add Digits
 - Unique Paths
+
+</details>
+<details>
+<summary><b>Daily Challenges</b> (1 problems)</summary>
+
+- Smallest Palindromic Rearrangement I
 
 </details>
 
