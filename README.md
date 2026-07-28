@@ -44,7 +44,7 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
     <animate attributeName="width" from="0" to="415" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
   <text x="320" y="35" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, sans-serif" font-size="14" font-weight="bold">
-    168 / 250 solved — 67%
+    171 / 250 solved — 69%
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.2s" fill="freeze"/>
   </text>
 </svg>
@@ -115,8 +115,8 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
 | Metric | Value |
 |:--|:--:|
 | 🏅 Global Rank | 1,012,843 |
-| 🐍 Python | 130 problems |
-| 🗄️ MySQL | 31 problems |
+| 🐍 Python | 132 problems |
+| 🗄️ MySQL | 32 problems |
 | ⚙️ C++ | 6 problems |
 | **Σ Total Solved** | **168** |
 
