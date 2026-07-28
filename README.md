@@ -97,15 +97,13 @@ Aspiring **AI Engineer** & **Data Analytics Engineer**
   <rect x="180" y="210" width="440" height="16" rx="8" fill="#2b2b2b"/>
   <rect x="180" y="210" height="16" rx="8" fill="url(#msPending)"><animate attributeName="width" from="0" to="145" dur="1.2s" begin="0.9s" fill="freeze"/></rect>
   <text x="630" y="222" fill="#999999" font-family="Segoe UI" font-size="12">33%</text>
-</svg>
 
-</div>
-
-<div>
   <text x="0" y="222" fill="#ffffff" font-family="Segoe UI" font-size="13">Daily Challenges - 1 </text>
   <rect x="180" y="210" width="440" height="16" rx="8" fill="#2b2b2b"/>
   <rect x="180" y="210" height="16" rx="8" fill="url(#msPending)"><animate attributeName="width" from="0" to="145" dur="1.2s" begin="0.9s" fill="freeze"/></rect>
-  <text x="630" y="222" fill="#999999" font-family="Segoe UI" font-size="12">33%</text>
+  
+</svg>
+
 </div>
 
 <br/>
